@@ -4,7 +4,7 @@
 
 A monorepo containing shared configs for personal projects.
 
-![GitHub CI](https://github.com/marklai1998/shared-config/actions/workflows/codeQualityChecks.yml/badge.svg) [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org) [![npm type definitions](https://img.shields.io/npm/types/typescript.svg)](https://www.typescriptlang.org/)
+![GitHub CI](https://github.com/marklai1998/shared-configs/actions/workflows/codeQualityChecks.yml/badge.svg) [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org) [![npm type definitions](https://img.shields.io/npm/types/typescript.svg)](https://www.typescriptlang.org/)
 
 [Packages](#-packages) | [Contributing](#-contributing)
 

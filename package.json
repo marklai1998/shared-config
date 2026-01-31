@@ -1,5 +1,5 @@
 {
-  "name": "shared-config",
+  "name": "shared-configs",
   "private": true,
   "type": "module",
   "scripts": {
